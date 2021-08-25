@@ -5,9 +5,10 @@ This notebook discusses a simple machine learning workflow using a text classifi
 ## 1.0 Read it from Github
 All the results were generated, so you could follow the simple ML process flow and how the analysis is done.
 
-In case github doesn't render the graphics, please use [nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/vitalstarorg/Sample-Text-Classification/blob/main/Sample-Text-Classification.ipynb) to render.
+## 2.0 Read it from nbviewer.jupyter.org
+In case github doesn't render the graphics, please use [nbviewer](https://nbviewer.jupyter.org/github/vitalstarorg/Sample-Text-Classification/blob/main/Sample-Text-Classification.ipynb) to render.
 
-## 2.0 Run on Local Juypter
+## 3.0 Run on Local Juypter
 The requirements.txt file is provided, you can install all packages required by this notebook.
 
 Before you run the notebook, please download the data from "BBC News Classifiction" from Kraggle AI Academy. You need to register in order to download the [sample data](https://www.kaggle.com/c/learn-ai-bbc/data).Please follow the link and download the data under `./data` directory.
