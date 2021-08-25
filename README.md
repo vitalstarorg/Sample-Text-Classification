@@ -5,6 +5,8 @@ This notebook discusses a simple machine learning workflow using a text classifi
 ## 1.0 Read it from Github
 All the results were generated, so you could follow the simple ML process flow and how the analysis is done.
 
+In case github doesn't render the graphics, please use [nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/vitalstarorg/Sample-Text-Classification/blob/main/Sample-Text-Classification.ipynb) to render.
+
 ## 2.0 Run on Local Juypter
 The requirements.txt file is provided, you can install all packages required by this notebook.
 
