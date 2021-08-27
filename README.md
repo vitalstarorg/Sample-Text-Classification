@@ -11,7 +11,7 @@ In case github doesn't render the graphics, please use [nbviewer](https://nbview
 ## 3.0 Run on Local Juypter
 The requirements.txt file is provided, you can install all packages required by this notebook.
 
-Before you run the notebook, please download the data from "BBC News Classifiction" from Kraggle AI Academy. You need to register in order to download the [sample data](https://www.kaggle.com/c/learn-ai-bbc/data).Please follow the link and download the data under `./data` directory.
+Before you run the notebook, please download the data from "BBC News Classifiction" from Kraggle AI Academy. You need to register in order to download the [sample data](https://www.kaggle.com/c/learn-ai-bbc/data). Please follow the link and download the data under `./data` directory.k
 
 ```bash
 $ git clone https://github.com/vitalstarorg/Sample-Text-Classification.git
